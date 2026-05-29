@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Tarefas por Cliente",
+  "description": "Sistema intuitivo com formato de cards para acompanhamento de tarefas por cliente, histórico de cobranças e controle de pendências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
